@@ -4,13 +4,19 @@
 **cllzkynk/cllzkynk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=https://www.linkedin.com/in/cllozkaynak/)](https://www.linkedin.com/in/cllozkaynak/)
+- 🔭 I’m currently working on ... Java & SQL
+- 🌱 I’m currently learning ... SQL
+- 🤔 I’m looking for help with ... Core Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://github.com/cllzkynk/cllzkynk/blob/main/indir.png?raw=true" width="auto">
+
+<img src="https://github.com/cllzkynk/cllzkynk/blob/main/indir%20(1).png" width="auto">
+
+<img src="https://github.com/cllzkynk/cllzkynk/blob/main/file.png" width="auto">
+
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=cllzkynk&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=cllzkynk&show_icons=true&theme=radical)
