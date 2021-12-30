@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**cllzkynk/cllzkynk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=https://www.linkedin.com/in/cllozkaynak/)](https://www.linkedin.com/in/cllozkaynak/)
