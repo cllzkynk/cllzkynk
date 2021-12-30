@@ -9,13 +9,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Core Java
 
 
-<img src="https://github.com/cllzkynk/cllzkynk/blob/main/indir.png?raw=true" width="auto">
-
-<img src="https://github.com/cllzkynk/cllzkynk/blob/main/indir%20(1).png" width="auto">
+<img src="https://github.com/cllzkynk/cllzkynk/blob/main/indir.png?raw=true" width="auto">  <img src="https://github.com/cllzkynk/cllzkynk/blob/main/indir%20(1).png" width="auto">
 
 <img src="https://github.com/cllzkynk/cllzkynk/blob/main/file.png" width="auto">
-
-
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=cllzkynk&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=cllzkynk&show_icons=true&theme=radical)
