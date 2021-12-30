@@ -3,7 +3,7 @@
 
 
 Here are some ideas to get you started:
-[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=https://www.linkedin.com/in/cllozkaynak/)](https://www.linkedin.com/in/cllozkaynak/)
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/cllozkaynak/)](https://www.linkedin.com/in/cllozkaynak/)
 - 🔭 I’m currently working on ... Java & SQL
 - 🌱 I’m currently learning ... SQL
 - 🤔 I’m looking for help with ... Core Java
