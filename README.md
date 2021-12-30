@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ... Java & SQL
 - 🌱 I’m currently learning ... SQL
-- 🤔 I’m looking for help with ... Core Java
+- 🤔 I’m looking for help with ...Advance Java and Lambda (Java)
 
 
 <img src="https://github.com/cllzkynk/cllzkynk/blob/main/indir.png?raw=true" width="auto">  <img src="https://github.com/cllzkynk/cllzkynk/blob/main/indir%20(1).png" width="auto">
