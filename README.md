@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-" width="auto">](https://www.linkedin.com/in/cllozkaynak/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="auto">](https://www.linkedin.com/in/cllozkaynak/)
  
 
 
