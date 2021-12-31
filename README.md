@@ -1,18 +1,35 @@
-### Hi there 👋
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="auto">](https://www.linkedin.com/in/cllozkaynak/) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="auto">](https://www.facebook.com/cllzkynk/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="auto">](https://www.instagram.com/matematikcel/) [<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" width="auto">](https://www.reddit.com/user/cllzkynk)
+<h1 align='center'>
+  Hi there 👋 I'm Celil 👨‍💻
+</h1>
  
  
  
- 
+ <h1 align='center'>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="auto">
-- 🔭 I’m currently working on ... Java & SQL
-- 🌱 I’m currently learning ... SQL
-- 🤔 I’m looking for help with ...Advance Java and Lambda (Java)
+</h1>
 
 
-[<img src="https://github.com/cllzkynk/cllzkynk/blob/main/indir.png?raw=true" width="auto">](https://dev.mysql.com/) [<img src="https://github.com/cllzkynk/cllzkynk/blob/main/indir%20(1).png" width="auto">](https://docs.oracle.com/en/java/index.html) [<img src="https://github.com/cllzkynk/cllzkynk/blob/main/lambda%20(2).png" width="auto">](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html) [<img src="https://github.com/cllzkynk/cllzkynk/blob/main/sdlc.jpg" width="auto">](https://en.wikipedia.org/wiki/Systems_development_life_cycle)[<img src="https://github.com/cllzkynk/cllzkynk/blob/main/agile-icon-methodology-development-scrum-vector-30766921.jpg" width="auto">](https://www.atlassian.com/agile)   
-<table>
+
+</p>
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/cllozkaynak/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/matematikcel/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+ <a href="https://www.reddit.com/user/cllzkynk">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" width="auto" />        
+  </a>&nbsp;&nbsp; <a href="https://www.facebook.com/cllzkynk/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="auto" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+<p align='center'>
+ <table>
     <tr>
       <td valign="top" width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cllzkynk&show_icons=true&theme=algolia" align="left" style="width: 100%" />
@@ -22,7 +39,15 @@
       </td>
   </tr>
 </table>
- 
+</p>
+
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i7%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-mx%20350-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p> 
 
 
 
