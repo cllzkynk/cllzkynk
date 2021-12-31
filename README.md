@@ -12,9 +12,18 @@
 
 
 [<img src="https://github.com/cllzkynk/cllzkynk/blob/main/indir.png?raw=true" width="auto">](https://dev.mysql.com/) [<img src="https://github.com/cllzkynk/cllzkynk/blob/main/indir%20(1).png" width="auto">](https://docs.oracle.com/en/java/index.html) [<img src="https://github.com/cllzkynk/cllzkynk/blob/main/lambda%20(2).png" width="auto">](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html) [<img src="https://github.com/cllzkynk/cllzkynk/blob/main/sdlc.jpg" width="auto">](https://en.wikipedia.org/wiki/Systems_development_life_cycle)[<img src="https://github.com/cllzkynk/cllzkynk/blob/main/agile-icon-methodology-development-scrum-vector-30766921.jpg" width="auto">](https://www.atlassian.com/agile) ![Github stats 1](https://github-readme-stats.vercel.app/api/top-langs/?username=cllzkynk&show_icons=true&theme=dracula)
-![Github stats1](https://github-readme-stats.vercel.app/api?username=cllzkynk&show_icons=true&theme=cobalt)![Github stats 1](https://github-readme-streak-stats.herokuapp.com/?user=cllzkynk&show_icons=true&theme=dark)
-![ Github stats1](https://github-readme-stats.vercel.app/api?username=cllzkynk&count_private=true&theme=merko)
+<table>
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun940630&hide_border=true&layout=compact&theme=algolia" align="left" style="width: 100%" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=hyun940630&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="left" style="width: 100%" />
+      </td>
+  </tr>
+</table> 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun940630)](https://hits.seeyoufarm.com)
 
 
 [<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white ?raw=true" width="auto">](https://www.eclipse.org/) [<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" width="auto">](https://www.jetbrains.com/idea/) [<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="auto">](https://code.visualstudio.com/) [<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" width="auto">](https://visualstudio.microsoft.com) [<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" width="auto">](https://en.wikipedia.org/wiki/Windows_Notepad)
