@@ -21,9 +21,10 @@
         <img src="https://github-readme-stats.vercel.app/api?username=cllzkynk&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="left" style="width: 100%" />
       </td>
   </tr>
-</table> 
+</table>
+ 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2cllzkynk)](https://hits.seeyoufarm.com)
+
 
 
 [<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white ?raw=true" width="auto">](https://www.eclipse.org/) [<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" width="auto">](https://www.jetbrains.com/idea/) [<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="auto">](https://code.visualstudio.com/) [<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" width="auto">](https://visualstudio.microsoft.com) [<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" width="auto">](https://en.wikipedia.org/wiki/Windows_Notepad)
