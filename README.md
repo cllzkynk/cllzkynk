@@ -1,27 +1,28 @@
 <h1 align='center'>
   Hi there 👋 I'm Celil 👨‍
 </h1>
-<h1 align='center'>
+<h2 align='center'>
 1991 BARTIN / TURKEY
-</h1>
-</h1>
-<h1 align='center'>
-2008-2013 Mathematics Teacher Education 
-
-at Gazi University/Turkey
-  
- 2015-2019
-  Faculty of Economics ,
-
-Department of Public Administration 
-
-at Anadolu University/Turkey
-
- 2013-2015 Open Education Faculty
-
-Department of Law for the Programme in Jurisprudence
+</h2>
  
- <h1 align='center'>
+<h2 align='center'>
+2008-2013 Mathematics Teacher Education at Gazi University/Turkey
+</h2>
+
+ 
+ 
+<h2 align='center'>  
+2015-2019 Faculty of Economics
+  
+  Department of Public Administration
+at Anadolu University/Turkey </h2>
+
+<h2 align='center'>
+2013-2015 Open Education Faculty
+
+Department of Law for the Programme in Jurisprudence at Anadolu University/Turkey  </h2>
+ 
+ <h2 align='center'>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="auto">
 </h1>
 
