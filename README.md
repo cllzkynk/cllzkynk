@@ -1,9 +1,7 @@
 <h1 align='center'>
   Hi there 👋 I'm Celil 👨‍
 </h1>
-<h2 align='center'>
-1991 BARTIN / TURKEY
-</h2>
+
  
 <h3 align='center'>
 2008-2013 Mathematics Teacher Education at Gazi University/Turkey
@@ -19,8 +17,13 @@ at Anadolu University/Turkey </h3>
 2013-2015 Open Education Faculty Department of Law for the Programme in Jurisprudence 
 
   at Anadolu University/Turkey  </h3>
+  <h3 align='center'>
+ After 2020 I interest Full Stack Java Developer
+</h3>
  
  <h2 align='center'>
+
+
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="auto">
 </h1>
 
