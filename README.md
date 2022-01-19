@@ -53,6 +53,19 @@ at Anadolu University/Turkey </h3>
   </a>&nbsp;&nbsp;
   
 </p>
+ 
+ <h2>📝 New repositories: </h2>
+
+
+    
+    
+<p align='center'>
+      <h3>New repositories: </h3>
+        <h6>✔️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – <a href='https://github.com/cllzkynk/hibernate'>hibernate</a></h6> 
+      <h6>✔️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – <a href='https://github.com/cllzkynk/hotelProject'>hotelProject</a></h6> 
+      <h6>✔️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – <a href='https://github.com/cllzkynk/mySQL'>mySQLexercises</a></h6> 
+        </td>
+
 
 <p align='center'>
  <table>
@@ -63,6 +76,8 @@ at Anadolu University/Turkey </h3>
         <img src="https://github-readme-stats.vercel.app/api?username=cllzkynk&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="left" style="width: 100%" />
       </td>
   </tr>
+  
+  </p>
 </table>
 </p>
 <p>&nbsp;<p>
