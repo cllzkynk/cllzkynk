@@ -1,6 +1,12 @@
-<h1 align='center'>
-  Hi there 👋 I'm Celil 👨‍
-</h1>
+<h1 align="center">Hi 👋, I'm Celil</h1>
+<h3 align="center">A passionate Full Stack Web Developer from Finland</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cllzkynk&label=Profile%20views&color=0e75b6&style=flat" alt="cllzkynk" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cllzkynk" alt="cllzkynk" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
  
  <ul>
@@ -59,7 +65,7 @@ at Anadolu University/Turkey </h3>
   </tr>
 </table>
 </p>
-
+<p>&nbsp;<p>
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -69,11 +75,11 @@ at Anadolu University/Turkey </h3>
 </p> 
 
 
-
+<p>&nbsp;<p>
 
 [<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white ?raw=true" width="auto">](https://www.eclipse.org/) [<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" width="auto">](https://www.jetbrains.com/idea/) [<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="auto">](https://code.visualstudio.com/) [<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" width="auto">](https://visualstudio.microsoft.com) [<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" width="auto">](https://en.wikipedia.org/wiki/Windows_Notepad)
 
-
+<p>&nbsp;<p>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&logo=ApacheOpenOffice&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" width="auto"> <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" width="auto">
 
  
