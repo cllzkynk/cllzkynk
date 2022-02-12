@@ -11,19 +11,12 @@
  
  <ul>
 <li><h3 align='center'>
-🎓2008-2013 Mathematics Teacher Education at Gazi University/Turkey
+🎓2008-2013 Mathematic  at Gazi University/Turkey
 </h3>
 
  
  
-<li><h3 align='center'>  
-🎓2015-2019 Faculty of Economics Department of Public Administration
-at Anadolu University/Turkey </h3> 
 
-<li><h3 align='center'>
-🎓 2013-2015 Open Education Faculty Department of Law for the Programme in Jurisprudence 
-
-  at Anadolu University/Turkey  </h3> 
    <ul>
   <h3 align='center'>
  After 2020 I interest Full Stack Java Developer
