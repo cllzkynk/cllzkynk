@@ -66,13 +66,7 @@
     
     
 <p align='center'>
-      <h3>New repositories: </h3>
-        <h6>✔️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – <a href='https://github.com/cllzkynk/hibernate'>hibernate</a></h6> 
-      <h6>✔️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – <a href='https://github.com/cllzkynk/hotelProject'>hotelProject</a></h6> 
-      <h6>✔️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – <a href='https://github.com/cllzkynk/mySQL'>mySQLexercises</a></h6> 
-        </td>
-          <h6>✔️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – <a href='https://github.com/cllzkynk/mySQL'>mySQLexercises</a></h6> 
-        </td>
+   
         
         
       
