@@ -21,7 +21,7 @@
  
  <ul>
 <li><h3 align='center'>
-🎓2008-2013 Mathematic  at Gazi University/Turkey
+2008-2013 Mathematic  at Gazi University/Turkey
 </h3>
 
    <ul>
@@ -69,7 +69,7 @@
  <table>
     <tr>
       <td valign="top" width="50%">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cllzkynk&hide_border=true&layout=compact&theme=algolia" align="left" style="width: 100%" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cllzkynk&show_icons=true&locale=en&hide_border=true&layout=compact&theme=algolia" align="left" style="width: 100%" />
       <td valign="top" width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=cllzkynk&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="left" style="width: 100%" />
       </td>
