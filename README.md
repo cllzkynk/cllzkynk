@@ -27,7 +27,7 @@
 
    <ul>
   <h3 align='center'>
- After 2020 I interest Full Stack Java Developer
+ After 2020 I interest Full Stack Web Developer 
 </h3>
  
  <h2 align='center'>
